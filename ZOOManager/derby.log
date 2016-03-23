@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 22 18:34:22 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0153-9f64-45c3-000004cbe190 
+on database directory memory:C:\Users\David\Desktop\ZOOManager\gravemgr-test with class loader sun.misc.Launcher$AppClassLoader@14dad5dc 
+Loaded from file:/C:/Users/David/Downloads/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Users\David\Desktop\ZOOManager
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
